@@ -28,7 +28,7 @@ class MapScreen extends StatefulWidget {
 
 class _MapScreenState extends State<MapScreen> {
   static const _initialCameraPosition = CameraPosition(
-    target: LatLng(16.085802, 108.215694),
+    target: LatLng(37.773972, -122.431297),
     zoom: 11.5,
   );
 
